@@ -18,7 +18,7 @@ El desafío consiste en una aplicación de musica obteniendo datos de la Api de 
 - Lo único que necesitas es NPM/NodeJS y tu editor de confianza (seguramente VSCode).
 
 ```
-   Puedes usar: npm install y npm start
+   Puedes utilizar: npm install y npm start
 ```
 
 
